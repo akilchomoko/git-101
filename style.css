@@ -1,0 +1,12 @@
+.cardlist {
+	display: flex;
+	flex-direction:row;
+	justify-content: space-around;
+}
+
+.rpicture {
+	border-radius: 20px;
+}
+
+
+
